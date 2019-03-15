@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: .
+appId: Demo
+win:
+  target: nsis
+electronVersion: 4.0.7
